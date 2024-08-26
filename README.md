@@ -13,8 +13,8 @@
 
 <div>
   <a href="https://github.com/cunhagustavo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cunhagustavo&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cunhagustavo&layout=compact&langs_count=16&theme=rose_pine"/>
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=cunhagustavo&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
+  <img  align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cunhagustavo&layout=compact&langs_count=16&theme=rose_pine"/>
 </div>
 
 ##
